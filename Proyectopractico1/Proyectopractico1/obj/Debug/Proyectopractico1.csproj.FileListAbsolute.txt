@@ -1,0 +1,7 @@
+C:\Users\XCORPION\source\repos\Proyectopractico1\Proyectopractico1\bin\Debug\Proyectopractico1.exe.config
+C:\Users\XCORPION\source\repos\Proyectopractico1\Proyectopractico1\bin\Debug\Proyectopractico1.exe
+C:\Users\XCORPION\source\repos\Proyectopractico1\Proyectopractico1\bin\Debug\Proyectopractico1.pdb
+C:\Users\XCORPION\source\repos\Proyectopractico1\Proyectopractico1\obj\Debug\Proyectopractico1.csprojResolveAssemblyReference.cache
+C:\Users\XCORPION\source\repos\Proyectopractico1\Proyectopractico1\obj\Debug\Proyectopractico1.csproj.CoreCompileInputs.cache
+C:\Users\XCORPION\source\repos\Proyectopractico1\Proyectopractico1\obj\Debug\Proyectopractico1.exe
+C:\Users\XCORPION\source\repos\Proyectopractico1\Proyectopractico1\obj\Debug\Proyectopractico1.pdb
